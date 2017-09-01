@@ -2,7 +2,7 @@
 #include<cmath>
 using namespace std;
 main (){
-float a,b,c,d,e;
+float a,b;
 cout<< " enter your number ";
 cin>>a;
 cout<< " your number is: "<<a;
